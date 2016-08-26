@@ -1,2 +1,2 @@
 # markdown-sandbox
-A playgorund to try things out for my blog site
+A playground to try things out for my blog site
